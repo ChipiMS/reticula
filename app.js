@@ -1,0 +1,1 @@
+var offset = 40, width = 100, height = 100;
